@@ -1,0 +1,48 @@
+ was nice speaking with you. For some reason we didn't have the best connection, but next time we'll be on Webex so I'm sure it will get better. Here's a basic breakdown of some of the topics I recommend covering. Like I said, I think it would be for your benefit to first brush up on CSS and HTML. Also if you're not up to speed with Git/Github and the command line, we'll need to spend a little time on those. Again, the reason all of this is a prerequisite for Javascript is because they are all a major part of modern front end development. Trust me it will be to your advantage to spend time with them and besides, it would be impossible to teach Javascript while ignoring them...
+
+Here my suggested set of goals before we start Javascript (this is mainly copied from what you saw, but edited a bit):
+Start with a talk and see some demos about the various front end (and some backend) technologies, current trends, and where/why they come into play
+Set up a good front end environment, choose an editor and configure. Install Node.js, Git and other tools as needed
+Git/Github basics (if needed). We will use Git throughout the course to communicate/collaborate on projects
+Basics of html5 and css (the dom, cascade and inheritance, box model, inline vs block, css resets, layout strategies and more)
+Using CSS resets for better browser compatibility
+Creating a simple web page, coded correctly with some basic styles but with no layout yet
+Creating a more detailed and interesting responsive home page with some layout challenges
+Create an interior page using the same template but with layout changes
+Working with media queries and responsive, fluid layouts that adapt to all screen sizes
+Use Chrome Developer Tools to debug code in the browser. Using online tools to test your code.
+Deploy code to a live server with ftp
+This will take at least 6-8 sessions.
+
+For Javascript:
+Start with a talk about how it works, the common frameworks and libraries, how to better use google to find documentation, ask questions, etc.
+Javascript syntax: operators, arrays, objects, loops, functions, prototype chain, classes, ES6
+Javscript scope (including what's new in ES6)
+Dom selection/manipulation
+Event handling and common UI interactions
+Using browser dev tools to debug, set breakpoints, etc.
+Form interactions and validation
+Using a module loader (Webpack) and the module pattern
+REST and HTTP(S), working with json and APIs
+Basic Node/Express on the server
+Using Webpack to compile SASS and manage assets for better front end performance
+Introduction to vanilla React (state managed from components)
+Switching to Redux for state and event management
+Using Redux dev tools for state based debugging
+Higher order components and functional programming basics
+Various small javascript projects in both vanilla Javascript and React
+For Javascript, the amount of time isn't easy to predict but if we are going to cover React I would assume "at least" 12 or more sessions. Keep in mind that these estimates are barebones and assume we'll be able to move quickly and that you'll have enough time to do homework. I think after we've had a few sessions, we'll know better what our pace is going to be like. But at this point, to be on the safe side I would assume we might need anywhere from 18 to 30 sessions to have enough time to explore the important areas. 
+
+Javascript the good parts
+
+emmet (if you don't already have)
+javascript-snippets (autocomplete for JS)
+launguage-javascript-jsx (needed for React)
+minimap (cool for scrolling)
+minimap-git-diff (shows git changes in sidebar)
+linter (base linter)
+linter-csslint
+linter-eslint
+linter-htmlhint
+linter-scss-lint
+open-in-browser (opens current file in browser)
